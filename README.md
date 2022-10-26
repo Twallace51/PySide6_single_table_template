@@ -2,20 +2,20 @@
 
 by twallace51@gmail.com    2022-10-10
 
-This project deals with using PySide6 to manage a database `Archivos`,  with one table named `Pacientes`.
+This project deals with using PySide6 to manage a database `archivos`,  with one table named `pacientes`.
 
 ## As a demo
 
 Demo in the sense that I wrote this to demonstrate/test my Support folder,  used as a basis for this project.
 
-The Support folder contains generic files,  in the sense that they can be shared unmodified by different projects.
+The Support folder contains generic files,  which can be shared unmodified, by different projects.
 
 Support includes
 
 - Class modules `Windows` and `LoginMenu`,  as a more flexible/capable alternative to QMainMenu
 - `dev-tools.py` with customized tools useful during project development
 - customized methods for dealing with json files, sqlite files, dates, QMessageBoxes, monitor screens, etc
-- `check_environ.py` which should be runby a project initially, to ensure correct environment and configurations are available
+- `check_environ.py` which should be run by a project initially, to ensure correct environment and configurations are available
 
 ## As a template
 
